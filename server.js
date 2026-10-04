@@ -11,6 +11,7 @@ const fs = require("fs");
 
 const PORT = process.env.PORT || 3000;
 const app = express();
+app.set("trust proxy", 1);
 const dataDir = path.join(__dirname, "data");
 fs.mkdirSync(dataDir, { recursive: true });
 
