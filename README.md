@@ -8,9 +8,9 @@ It demonstrates a secure voting workflow with authentication, administrator 2FA,
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-Coming soon.
+🚀 **Live Demo:** https://votesecure-gsgo.onrender.com
 
 ---
 
